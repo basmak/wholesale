@@ -1,0 +1,33 @@
+{
+    "name": "basmak/wholesale",
+    "type": "symfony-bundle",
+    "description": "BasMak test Symfony bundle",
+    "keywords": ["basmak", "wholesale"],
+    "homepage": "https://makaren.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasyl Makarenko",
+            "email": "vasyl@makaren.com"
+        },
+    ],
+    "require": {
+        "php": "^7.1.3",
+    },
+    "autoload": {
+        "psr-4": {
+            "Basmak\\WholesaleBundle\\": "src",
+        },
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Basmak\\WholesaleBundle\\Tests\\": "tests",
+        },
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    }
+}
