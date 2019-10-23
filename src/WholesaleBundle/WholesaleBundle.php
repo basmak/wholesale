@@ -1,7 +1,0 @@
-namespace App\Wholesale\WholesaleBundle;
-
-use Symfony\Component\HttpKernel\Bundle\Bundle;
-
-class WholesaleBundle extends Bundle
-{
-}
