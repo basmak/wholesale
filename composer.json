@@ -5,6 +5,7 @@
     "keywords": ["basmak", "wholesale"],
     "homepage": "https://makaren.com",
     "license": "MIT",
+    "version": "1.0.0"
     "authors": [
         {
             "name": "Vasyl Makarenko",
