@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Basmak\\WholesaleBundle\\": "src",
+            "Basmak\\WholesaleBundle\\": "src"
         },
     },
     "autoload-dev": {
         "psr-4": {
-            "Basmak\\WholesaleBundle\\Tests\\": "tests",
+            "Basmak\\WholesaleBundle\\Tests\\": "tests"
         },
     },
     "minimum-stability": "dev",
