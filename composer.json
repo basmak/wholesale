@@ -9,7 +9,7 @@
         {
             "name": "Vasyl Makarenko",
             "email": "vasyl@makaren.com"
-        },
+        }
     ],
     "require": {
         "php": "^7.1.3",
@@ -17,12 +17,12 @@
     "autoload": {
         "psr-4": {
             "Basmak\\WholesaleBundle\\": "src"
-        },
+        }
     },
     "autoload-dev": {
         "psr-4": {
             "Basmak\\WholesaleBundle\\Tests\\": "tests"
-        },
+        }
     },
     "minimum-stability": "dev",
     "extra": {
